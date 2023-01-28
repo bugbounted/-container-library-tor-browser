@@ -1,0 +1,12 @@
+{
+    "name": "tor-12.0.2",
+    "description": "tor-12.0.2",
+    "repository": "https://github.com/bugbounted/-container-library-tor-browser",
+    "stack": "container",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "basic"
+        }
+    }
+}
